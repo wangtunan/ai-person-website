@@ -3,8 +3,8 @@ import type { ReactNode } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "AI Person Website",
-  description: "Next.js, React, Tailwind CSS, Vercel starter.",
+  title: "Personal URL Atlas",
+  description: "个人收藏 URL 导航页。",
 };
 
 export default function RootLayout({
